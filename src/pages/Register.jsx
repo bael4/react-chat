@@ -1,5 +1,4 @@
 import React from 'react'
-import '../styles/Auth.css'
 import Add from '../img/addAvatar.png'
 const Register = () => {
   return (
